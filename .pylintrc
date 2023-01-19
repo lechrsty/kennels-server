@@ -13,3 +13,7 @@ good-names=i,
 [MESSAGES CONTROL]
 disable=broad-except,redefined-builtin,missing-module-docstring
 
+[FORMAT]
+max-line-length=240
+
+
